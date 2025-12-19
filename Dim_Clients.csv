@@ -1,0 +1,101 @@
+client_id,nom,ville,pays,segment
+1,Emma Johnson,nan,Inde,VIP
+2,Anna Alves,Liverpool,nan,Étudiant
+3,Jean Tanaka,Valencia,España,Premium
+4,Olga Dupont,Fortaleza,Brésil,VIP
+5,Luca Garcia,Kyoto,Japon,Premium
+6,Mohamed Kowalski,Kyoto,Japon,Étudiant
+7,John Alves,Shenzhen,Chine,Premium
+8,Jean Rossi,Londres,UK,Entreprise
+9,Ahmed Smith,Rio,Brésil,VIP
+10,Emma Alves,Chennai,Inde,Entreprise
+11,Carlos Dupont,Hyderabad,Inde,Particulier
+12,Yuki Ali,Nice,France,VIP
+13,Luca Kowalski,Liverpool,UK,Particulier
+14,Carlos Smith,München,Deutschland,Particulier
+15,Li Bernard,Glasgow,United Kingdom,Entreprise
+16,Li Dupont,Bursa,Turquie,VIP
+17,Carlos Kowalski,Chennai,Inde,Premium
+18,Ahmed Wei,Nice,France,Étudiant
+19,Pedro Ali,Phoenix,USA,VIP
+20,Yuki Ali,Los Angeles,USA,Premium
+21,Sophie Tanaka,nan,Brésil,Premium
+22,Carlos Johnson,Madrid,Espagne,Particulier
+23,Julie Tanaka,New York,USA,VIP
+24,Ahmed Müller,Novossibirsk,Russie,Premium
+25,Luca Hassan,Sapporo,Japon,Entreprise
+26,Ahmed Alves,Izmir,Turquie,Étudiant
+27,Yuki Tanaka,Toulouse,nan,Particulier
+28,Mohamed Ali,Naples,Italie,Premium
+29,Mohamed Dupont,Valence,Espagne,Étudiant
+30,Carlos Ali,New York,USA,VIP
+31,Olga Rossi,Saint-Pétersbourg,Russie,VIP
+32,Julie Rossi,Edimbourg,United Kingdom,Étudiant
+33,Ahmed Hassan,Toronto,Canada,Entreprise
+34,Anna Johnson,Rome,Italie,Particulier
+35,Emma Ali,Birmingham,United Kingdom,Particulier
+36,Anna Ali,Antalya,Turquie,Particulier
+37,John Hassan,Rabat,Maroc,Premium
+38,Li Wei,Miami,USA,Entreprise
+39,Anna Bernard,Rome,Italie,VIP
+40,Pedro Wei,Toronto,Canada,Premium
+41,John Garcia,nan,Allemagne,Entreprise
+42,Olga Smith,Mumbai,Inde,Particulier
+43,Olga Alves,Nice,France,Étudiant
+44,Sophie Bernard,Los Angeles,USA,Premium
+45,Li Ali,Frankfurt,Deutschland,Entreprise
+46,Ahmed Garcia,Houston,USA,VIP
+47,Jean Müller,LA,USA,Particulier
+48,Pedro Johnson,Houston,USA,Particulier
+49,Li Dupont,Montréal,Canada,VIP
+50,Emma Kowalski,New York,USA,Entreprise
+51,Maria Rossi,Puebla,Mexique,Premium
+52,John Wei,Ankara,nan,Premium
+53,Yuki Ali,Barcelona,España,Premium
+54,John Mendez,Los Angeles,USA,Entreprise
+55,Jean Ali,Casablanca,Maroc,Étudiant
+56,Luca Müller,Séville,Espagne,Particulier
+57,Mohamed Müller,Marrakech,Maroc,VIP
+58,Pedro Bernard,Chennai,Inde,Premium
+59,Yuki Ali,Miami,USA,Entreprise
+60,Emma Bernard,Ankara,Turquie,Étudiant
+61,Pedro Rossi,nan,Espagne,Étudiant
+62,Pedro Johnson,Francfort,Allemagne,Entreprise
+63,Julie Bernard,Delhi,Inde,Particulier
+64,Anna Smith,Phoenix,USA,Étudiant
+65,Jean Hassan,Sevilla,España,Entreprise
+66,Emma Hassan,Iekaterinbourg,Russie,Étudiant
+67,Julie Hassan,Barcelone,Espagne,VIP
+68,Anna Mendez,Berlin,Deutschland,Premium
+69,John Bernard,Milan,Italie,VIP
+70,Jean Rossi,Lyon,France,Particulier
+71,Ahmed Kowalski,Manchester,United Kingdom,Premium
+72,Li Dupont,Paris,France,Entreprise
+73,Sophie Müller,München,Deutschland,Particulier
+74,Ahmed Hassan,Toronto,Canada,Entreprise
+75,John Bernard,Kyoto,Japon,Étudiant
+76,Li Kowalski,Lyon,France,Entreprise
+77,Emma Müller,Paris,nan,Entreprise
+78,Maria Ali,Paris,France,Premium
+79,Carlos Hassan,Montréal,Canada,Entreprise
+80,Julie Hassan,Toulouse,France,VIP
+81,Maria Smith,nan,United Kingdom,Étudiant
+82,Julie Rossi,Ankara,Turquie,Premium
+83,Anna Rossi,São Paulo,Brésil,Particulier
+84,Anna Alves,Londres,United Kingdom,Premium
+85,Sophie Hassan,Madrid,Espagne,Étudiant
+86,Luca Garcia,Londres,UK,Entreprise
+87,Pedro Dupont,Manchester,United Kingdom,Particulier
+88,Maria Alves,Pékin,Chine,VIP
+89,Luca Dupont,Mumbai,Inde,Particulier
+90,Li Ali,Sevilla,España,Premium
+91,Ahmed Tanaka,Madrid,España,Particulier
+92,Jean Kowalski,Osaka,Japon,Particulier
+93,Sophie Tanaka,Hyderabad,Inde,Particulier
+94,Luca Hassan,Miami,USA,Premium
+95,Jean Hassan,Saint-Pétersbourg,Russie,Étudiant
+96,Mohamed Johnson,Chengdu,Chine,Premium
+97,Sophie Müller,Manchester,United Kingdom,Premium
+98,Li Alves,Lyon,France,Étudiant
+99,Julie Petrova,Izmir,Turquie,Premium
+100,Jean Smith,Kazan,Russie,VIP
